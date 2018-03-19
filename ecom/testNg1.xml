@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="suite1" parallel="tests" thread-count="3">
+<groups>
+<run>
+<include name="sanity"></include>
+<include name="sanity"></include>
+</run>
+</groups>
+<test name="reg1">
+<classes>
+<class name="jasdnj"></class>
+<class name="jASdj"></class>
+</classes>
+</test>
+</suite>

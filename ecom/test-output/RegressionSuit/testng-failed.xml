@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="3" guice-stage="DEVELOPMENT" name="Failed suite [RegressionSuit]" parallel="methods">
+  <test name="Cycle1(failed)" parallel="methods">
+    <classes>
+      <class name="UiAuto.ecom.HomePage.TC003_Login_with_valid_credential">
+        <methods>
+          <include name="Register_new_user"/>
+          <include name="start_test"/>
+          <include name="end_test"/>
+        </methods>
+      </class> <!-- UiAuto.ecom.HomePage.TC003_Login_with_valid_credential -->
+      <class name="UiAuto.ecom.HomePage.TC001_Login_with_Invalid_credential">
+        <methods>
+          <include name="endTest"/>
+          <include name="startTest"/>
+        </methods>
+      </class> <!-- UiAuto.ecom.HomePage.TC001_Login_with_Invalid_credential -->
+      <class name="UiAuto.ecom.HomePage.TC002_Register_new_user">
+        <methods>
+          <include name="start_test"/>
+          <include name="end_test"/>
+        </methods>
+      </class> <!-- UiAuto.ecom.HomePage.TC002_Register_new_user -->
+    </classes>
+  </test> <!-- Cycle1(failed) -->
+</suite> <!-- Failed suite [RegressionSuit] -->

@@ -1,0 +1,329 @@
+2018-02-02 22:39:04 INFO  Testbase:55 - navigating to url :-http://demo.nopcommerce.com/
+2018-02-02 22:39:10 INFO  Testbase:57 - Maximizing the window
+2018-02-02 22:39:10 INFO  TC001_Login_with_Invalid_credential:29 - ============Starting the test=====================
+2018-02-02 22:41:07 INFO  Testbase:55 - navigating to url :-http://demo.nopcommerce.com/
+2018-02-02 22:41:10 INFO  Testbase:57 - Maximizing the window
+2018-02-02 22:41:10 INFO  TC001_Login_with_Invalid_credential:29 - ============Starting the test=====================
+2018-02-02 22:43:54 INFO  Testbase:55 - navigating to url :-http://demo.nopcommerce.com/
+2018-02-02 22:43:59 INFO  Testbase:57 - Maximizing the window
+2018-02-02 22:43:59 INFO  TC001_Login_with_Invalid_credential:29 - ============Starting the test=====================
+2018-02-02 22:45:31 INFO  Testbase:55 - navigating to url :-http://demo.nopcommerce.com/
+2018-02-02 22:45:34 INFO  Testbase:57 - Maximizing the window
+2018-02-02 22:45:34 INFO  TC001_Login_with_Invalid_credential:29 - ============Starting the test=====================
+2018-02-02 22:46:38 INFO  Testbase:55 - navigating to url :-http://demo.nopcommerce.com/
+2018-02-02 22:46:40 INFO  Testbase:57 - Maximizing the window
+2018-02-02 22:46:41 INFO  TC001_Login_with_Invalid_credential:29 - ============Starting the test=====================
+2018-02-02 22:46:46 INFO  TC001_Login_with_Invalid_credential:38 - ========================Ending the test=================
+2018-02-02 22:50:12 INFO  Testbase:55 - navigating to url :-http://demo.nopcommerce.com/
+2018-02-02 22:50:15 INFO  Testbase:57 - Maximizing the window
+2018-02-02 22:50:16 INFO  TC001_Login_with_Invalid_credential:30 - ============Starting the test=====================
+2018-02-02 22:51:28 INFO  Testbase:55 - navigating to url :-http://demo.nopcommerce.com/
+2018-02-02 22:51:32 INFO  Testbase:57 - Maximizing the window
+2018-02-02 22:51:32 INFO  TC001_Login_with_Invalid_credential:30 - ============Starting the test=====================
+2018-02-02 22:52:49 INFO  Testbase:55 - navigating to url :-http://demo.nopcommerce.com/
+2018-02-02 22:52:51 INFO  Testbase:57 - Maximizing the window
+2018-02-02 22:52:51 INFO  TC001_Login_with_Invalid_credential:30 - ============Starting the test=====================
+2018-02-02 22:53:40 INFO  Testbase:55 - navigating to url :-http://demo.nopcommerce.com/
+2018-02-02 22:53:44 INFO  Testbase:57 - Maximizing the window
+2018-02-02 22:53:44 INFO  TC001_Login_with_Invalid_credential:30 - ============Starting the test=====================
+2018-02-02 22:53:49 INFO  TC001_Login_with_Invalid_credential:43 - ========================Ending the test=================
+2018-02-03 09:56:17 INFO  Testbase:93 - navigating to url :-http://demo.nopcommerce.com/
+2018-02-03 09:56:19 INFO  Testbase:95 - Maximizing the window
+2018-02-03 09:56:19 INFO  TC001_Login_with_Invalid_credential:29 - ============Starting the test=====================
+2018-02-03 09:56:19 INFO  HomePage:23 - clicked on log in link on the home screen
+2018-02-03 09:56:22 INFO  HomePage:23 - entered valiue in email field on login screen
+2018-02-03 09:56:23 INFO  HomePage:23 - entered valiue in password field on login screen
+2018-02-03 10:01:14 INFO  Testbase:93 - navigating to url :-http://demo.nopcommerce.com/
+2018-02-03 10:01:17 INFO  Testbase:95 - Maximizing the window
+2018-02-03 10:01:18 INFO  TC001_Login_with_Invalid_credential:29 - ============Starting the test=====================
+2018-02-03 10:01:18 INFO  HomePage:23 - clicked on log in link on the home screen
+2018-02-03 10:01:20 INFO  HomePage:23 - entered valiue in email field on login screen
+2018-02-03 10:01:21 INFO  HomePage:23 - entered valiue in password field on login screen
+2018-02-03 10:01:21 INFO  HomePage:23 - To Click on login 
+2018-02-03 10:02:52 INFO  Testbase:93 - navigating to url :-http://demo.nopcommerce.com/
+2018-02-03 10:02:54 INFO  Testbase:95 - Maximizing the window
+2018-02-03 10:02:54 INFO  TC001_Login_with_Invalid_credential:29 - ============Starting the test=====================
+2018-02-03 10:02:55 INFO  HomePage:23 - clicked on log in link on the home screen
+2018-02-03 10:02:57 INFO  HomePage:23 - entered valiue in email field on login screen
+2018-02-03 10:02:57 INFO  HomePage:23 - entered valiue in password field on login screen
+2018-02-03 10:02:57 INFO  HomePage:23 - To Click on login 
+2018-02-03 10:02:59 INFO  HomePage:23 - Clicked on login 
+2018-02-03 10:02:59 INFO  TC001_Login_with_Invalid_credential:37 - ========================Ending the test=================
+2018-02-03 10:10:17 INFO  Testbase:93 - navigating to url :-http://demo.nopcommerce.com/
+2018-02-03 10:10:19 INFO  Testbase:95 - Maximizing the window
+2018-02-03 10:10:20 INFO  TC001_Login_with_Invalid_credential:28 - ============Starting the test=====================
+2018-02-03 10:10:20 INFO  HomePage:23 - clicked on log in link on the home screen
+2018-02-03 10:10:22 INFO  HomePage:23 - entered valiue in email field on login screen
+2018-02-03 10:10:22 INFO  HomePage:23 - entered valiue in password field on login screen
+2018-02-03 10:10:22 INFO  HomePage:23 - To Click on login 
+2018-02-03 10:10:24 INFO  HomePage:23 - Clicked on login 
+2018-02-03 10:15:15 INFO  Testbase:93 - navigating to url :-http://demo.nopcommerce.com/
+2018-02-03 10:15:17 INFO  Testbase:95 - Maximizing the window
+2018-02-03 10:15:17 INFO  TC001_Login_with_Invalid_credential:28 - ============Starting the test=====================
+2018-02-03 10:15:18 INFO  HomePage:23 - clicked on log in link on the home screen
+2018-02-03 10:15:19 INFO  HomePage:23 - entered valiue in email field on login screen
+2018-02-03 10:15:20 INFO  HomePage:23 - entered valiue in password field on login screen
+2018-02-03 10:15:20 INFO  HomePage:23 - To Click on login 
+2018-02-03 10:15:21 INFO  HomePage:23 - Clicked on login 
+2018-02-03 10:15:22 INFO  TC001_Login_with_Invalid_credential:33 - ========================Ending the test=================
+2018-02-03 18:35:12 INFO  Testbase:93 - navigating to url :-http://demo.nopcommerce.com/
+2018-02-03 18:35:16 INFO  Testbase:95 - Maximizing the window
+2018-02-03 18:35:16 INFO  TC002_Register_new_user:47 - ==================strat testing===================
+2018-02-03 18:35:17 INFO  TC002_Register_new_user:47 - to click on Register link
+2018-02-03 18:35:17 INFO  TC002_Register_new_user:47 - clicked on Register link
+2018-02-03 18:35:17 INFO  User_Registration:22 - to click on sex
+2018-02-03 18:39:03 INFO  Testbase:93 - navigating to url :-http://demo.nopcommerce.com/
+2018-02-03 18:39:05 INFO  Testbase:95 - Maximizing the window
+2018-02-03 18:39:05 INFO  TC002_Register_new_user:47 - ==================strat testing===================
+2018-02-03 18:39:05 INFO  TC002_Register_new_user:47 - to click on Register link
+2018-02-03 18:39:06 INFO  TC002_Register_new_user:47 - clicked on Register link
+2018-02-03 18:39:06 INFO  User_Registration:22 - to click on sex
+2018-02-03 19:38:23 INFO  Testbase:93 - navigating to url :-http://demo.nopcommerce.com/
+2018-02-03 19:38:29 INFO  Testbase:95 - Maximizing the window
+2018-02-03 19:38:30 INFO  TC002_Register_new_user:47 - ==================strat testing===================
+2018-02-03 19:38:30 INFO  TC002_Register_new_user:47 - to click on Register link
+2018-02-03 19:38:31 INFO  TC002_Register_new_user:47 - clicked on Register link
+2018-02-03 19:38:31 INFO  User_Registration:22 - to click on sex
+2018-02-03 19:38:35 INFO  User_Registration:22 - clicked on sex
+2018-02-03 19:38:35 INFO  User_Registration:22 - to enter first name 
+2018-02-03 19:38:36 INFO  User_Registration:22 - entered data in fst name 
+2018-02-03 19:38:36 INFO  User_Registration:22 - to enter last name 
+2018-02-03 19:38:37 INFO  User_Registration:22 - entered data in last name 
+2018-02-03 19:38:37 INFO  User_Registration:22 - to enter Email 
+2018-02-03 19:38:37 INFO  User_Registration:22 - entered data in Email 
+2018-02-03 19:38:37 INFO  User_Registration:22 - to enter Email 
+2018-02-03 19:38:38 INFO  User_Registration:22 - entered data in Email 
+2018-02-03 19:38:38 INFO  User_Registration:22 - to enter Company name 
+2018-02-03 19:38:38 INFO  User_Registration:22 - entered data in Company name 
+2018-02-03 19:38:38 INFO  User_Registration:22 - to enter Password 
+2018-02-03 19:38:38 INFO  User_Registration:22 - entered data in Password 
+2018-02-03 19:38:38 INFO  User_Registration:22 - to enter Confirm password: 
+2018-02-03 19:38:39 INFO  User_Registration:22 - entered data in Confirm password: 
+2018-02-03 19:38:39 INFO  User_Registration:22 - to click Registration button
+2018-02-03 19:38:39 INFO  User_Registration:22 -  clicked Registration button
+2018-02-03 19:38:39 INFO  TC002_Register_new_user:47 - ===================End of the test==================
+2018-02-03 19:40:31 INFO  Testbase:93 - navigating to url :-http://demo.nopcommerce.com/
+2018-02-03 19:40:33 INFO  Testbase:95 - Maximizing the window
+2018-02-03 19:40:33 INFO  TC002_Register_new_user:47 - ==================strat testing===================
+2018-02-03 19:40:33 INFO  TC002_Register_new_user:47 - to click on Register link
+2018-02-03 19:40:34 INFO  TC002_Register_new_user:47 - clicked on Register link
+2018-02-03 19:40:34 INFO  User_Registration:22 - to click on sex
+2018-02-03 19:40:36 INFO  User_Registration:22 - clicked on sex
+2018-02-03 19:40:36 INFO  User_Registration:22 - to enter first name 
+2018-02-03 19:40:36 INFO  User_Registration:22 - entered data in fst name 
+2018-02-03 19:40:36 INFO  User_Registration:22 - to enter last name 
+2018-02-03 19:40:37 INFO  User_Registration:22 - entered data in last name 
+2018-02-03 19:40:37 INFO  User_Registration:22 - to enter Email 
+2018-02-03 19:40:37 INFO  User_Registration:22 - entered data in Email 
+2018-02-03 19:40:37 INFO  User_Registration:22 - to enter Email 
+2018-02-03 19:40:38 INFO  User_Registration:22 - entered data in Email 
+2018-02-03 19:40:38 INFO  User_Registration:22 - to enter Company name 
+2018-02-03 19:40:38 INFO  User_Registration:22 - entered data in Company name 
+2018-02-03 19:40:38 INFO  User_Registration:22 - to enter Password 
+2018-02-03 19:40:38 INFO  User_Registration:22 - entered data in Password 
+2018-02-03 19:40:38 INFO  User_Registration:22 - to enter Confirm password: 
+2018-02-03 19:40:38 INFO  User_Registration:22 - entered data in Confirm password: 
+2018-02-03 19:40:38 INFO  User_Registration:22 - to click Registration button
+2018-02-03 19:40:41 INFO  User_Registration:22 -  clicked Registration button
+2018-02-03 19:40:41 INFO  TC002_Register_new_user:47 - ===================End of the test==================
+2018-02-03 20:00:48 INFO  Testbase:93 - navigating to url :-http://demo.nopcommerce.com/
+2018-02-03 20:00:51 INFO  Testbase:95 - Maximizing the window
+2018-02-03 20:00:51 INFO  TC002_Register_new_user:53 - ==================strat testing===================
+2018-02-03 20:00:51 INFO  TC002_Register_new_user:53 - to click on Register link
+2018-02-03 20:00:51 INFO  TC002_Register_new_user:53 - clicked on Register link
+2018-02-03 20:00:51 INFO  User_Registration:23 - to click on sex
+2018-02-03 20:00:54 INFO  User_Registration:23 - clicked on sex
+2018-02-03 20:00:54 INFO  User_Registration:23 - to enter first name 
+2018-02-03 20:00:54 INFO  User_Registration:23 - entered data in fst name 
+2018-02-03 20:00:54 INFO  User_Registration:23 - to enter last name 
+2018-02-03 20:00:55 INFO  User_Registration:23 - entered data in last name 
+2018-02-03 20:00:55 INFO  User_Registration:23 - to enter Email 
+2018-02-03 20:00:55 INFO  User_Registration:23 - entered data in Email 
+2018-02-03 20:00:55 INFO  User_Registration:23 - to enter Email 
+2018-02-03 20:00:55 INFO  User_Registration:23 - entered data in Email 
+2018-02-03 20:00:55 INFO  User_Registration:23 - to enter Company name 
+2018-02-03 20:00:55 INFO  User_Registration:23 - entered data in Company name 
+2018-02-03 20:00:55 INFO  User_Registration:23 - to enter Password 
+2018-02-03 20:00:55 INFO  User_Registration:23 - entered data in Password 
+2018-02-03 20:00:55 INFO  User_Registration:23 - to enter Confirm password: 
+2018-02-03 20:00:55 INFO  User_Registration:23 - entered data in Confirm password: 
+2018-02-03 20:00:55 INFO  User_Registration:23 - to click Registration button
+2018-02-03 20:00:57 INFO  User_Registration:23 -  clicked Registration button
+2018-02-03 20:01:08 INFO  TC002_Register_new_user:53 - closing browser
+2018-02-03 20:01:08 INFO  TC002_Register_new_user:53 - closing the browser
+2018-02-03 20:01:54 INFO  Testbase:93 - navigating to url :-http://demo.nopcommerce.com/
+2018-02-03 20:01:56 INFO  Testbase:95 - Maximizing the window
+2018-02-03 20:01:56 INFO  TC002_Register_new_user:54 - ==================strat testing===================
+2018-02-03 20:01:56 INFO  TC002_Register_new_user:54 - to click on Register link
+2018-02-03 20:01:56 INFO  TC002_Register_new_user:54 - clicked on Register link
+2018-02-03 20:01:56 INFO  User_Registration:23 - to click on sex
+2018-02-03 20:02:01 INFO  User_Registration:23 - clicked on sex
+2018-02-03 20:02:01 INFO  User_Registration:23 - to enter first name 
+2018-02-03 20:02:01 INFO  User_Registration:23 - entered data in fst name 
+2018-02-03 20:02:01 INFO  User_Registration:23 - to enter last name 
+2018-02-03 20:02:02 INFO  User_Registration:23 - entered data in last name 
+2018-02-03 20:02:02 INFO  User_Registration:23 - to enter Email 
+2018-02-03 20:02:02 INFO  User_Registration:23 - entered data in Email 
+2018-02-03 20:02:02 INFO  User_Registration:23 - to enter Email 
+2018-02-03 20:02:03 INFO  User_Registration:23 - entered data in Email 
+2018-02-03 20:02:03 INFO  User_Registration:23 - to enter Company name 
+2018-02-03 20:02:03 INFO  User_Registration:23 - entered data in Company name 
+2018-02-03 20:02:03 INFO  User_Registration:23 - to enter Password 
+2018-02-03 20:02:03 INFO  User_Registration:23 - entered data in Password 
+2018-02-03 20:02:03 INFO  User_Registration:23 - to enter Confirm password: 
+2018-02-03 20:02:03 INFO  User_Registration:23 - entered data in Confirm password: 
+2018-02-03 20:02:03 INFO  User_Registration:23 - to click Registration button
+2018-02-03 20:02:05 INFO  User_Registration:23 -  clicked Registration button
+2018-02-03 20:02:16 INFO  TC002_Register_new_user:54 - closing browser
+2018-02-03 20:02:16 INFO  TC002_Register_new_user:54 - closing the browser
+2018-02-03 20:03:05 INFO  Testbase:93 - navigating to url :-http://demo.nopcommerce.com/
+2018-02-03 20:03:07 INFO  Testbase:95 - Maximizing the window
+2018-02-03 20:03:07 INFO  TC002_Register_new_user:54 - ==================strat testing===================
+2018-02-03 20:03:07 INFO  TC002_Register_new_user:54 - to click on Register link
+2018-02-03 20:03:08 INFO  TC002_Register_new_user:54 - clicked on Register link
+2018-02-03 20:03:08 INFO  User_Registration:23 - to click on sex
+2018-02-03 20:03:10 INFO  User_Registration:23 - clicked on sex
+2018-02-03 20:03:10 INFO  User_Registration:23 - to enter first name 
+2018-02-03 20:03:10 INFO  User_Registration:23 - entered data in fst name 
+2018-02-03 20:03:10 INFO  User_Registration:23 - to enter last name 
+2018-02-03 20:03:11 INFO  User_Registration:23 - entered data in last name 
+2018-02-03 20:03:11 INFO  User_Registration:23 - to enter Email 
+2018-02-03 20:03:11 INFO  User_Registration:23 - entered data in Email 
+2018-02-03 20:03:11 INFO  User_Registration:23 - to enter Email 
+2018-02-03 20:03:11 INFO  User_Registration:23 - entered data in Email 
+2018-02-03 20:03:11 INFO  User_Registration:23 - to enter Company name 
+2018-02-03 20:03:12 INFO  User_Registration:23 - entered data in Company name 
+2018-02-03 20:03:12 INFO  User_Registration:23 - to enter Password 
+2018-02-03 20:03:12 INFO  User_Registration:23 - entered data in Password 
+2018-02-03 20:03:12 INFO  User_Registration:23 - to enter Confirm password: 
+2018-02-03 20:03:12 INFO  User_Registration:23 - entered data in Confirm password: 
+2018-02-03 20:03:12 INFO  User_Registration:23 - to click Registration button
+2018-02-03 20:03:15 INFO  User_Registration:23 -  clicked Registration button
+2018-02-03 20:03:15 INFO  TC002_Register_new_user:54 - Your registration completed
+2018-02-03 20:03:15 INFO  TC002_Register_new_user:54 - ===================End of the test==================
+2018-02-03 20:03:15 INFO  TC002_Register_new_user:54 - closing browser
+2018-02-03 20:03:15 INFO  TC002_Register_new_user:54 - closing the browser
+2018-02-03 20:18:03 INFO  Testbase:93 - navigating to url :-http://demo.nopcommerce.com/
+2018-02-03 20:18:05 INFO  Testbase:95 - Maximizing the window
+2018-02-03 20:18:14 INFO  Testbase:93 - navigating to url :-http://demo.nopcommerce.com/
+2018-02-03 20:18:17 INFO  Testbase:95 - Maximizing the window
+2018-02-03 20:18:17 INFO  TC001_Login_with_Invalid_credential:23 - ============Starting the test=====================
+2018-02-03 20:18:17 INFO  TC002_Register_new_user:54 - ==================strat testing===================
+2018-02-03 20:18:17 INFO  TC002_Register_new_user:54 - to click on Register link
+2018-02-03 20:18:17 INFO  TC002_Register_new_user:54 - clicked on Register link
+2018-02-03 20:18:17 INFO  User_Registration:23 - to click on sex
+2018-02-03 20:18:18 INFO  HomePage:23 - clicked on log in link on the home screen
+2018-02-03 20:18:20 INFO  HomePage:23 - entered valiue in email field on login screen
+2018-02-03 20:18:20 INFO  HomePage:23 - entered valiue in password field on login screen
+2018-02-03 20:18:20 INFO  HomePage:23 - To Click on login 
+2018-02-03 20:18:20 INFO  User_Registration:23 - clicked on sex
+2018-02-03 20:18:20 INFO  User_Registration:23 - to enter first name 
+2018-02-03 20:18:20 INFO  User_Registration:23 - entered data in fst name 
+2018-02-03 20:18:20 INFO  User_Registration:23 - to enter last name 
+2018-02-03 20:18:22 INFO  User_Registration:23 - entered data in last name 
+2018-02-03 20:18:22 INFO  User_Registration:23 - to enter Email 
+2018-02-03 20:18:22 INFO  User_Registration:23 - entered data in Email 
+2018-02-03 20:18:22 INFO  User_Registration:23 - to enter Email 
+2018-02-03 20:18:22 INFO  User_Registration:23 - entered data in Email 
+2018-02-03 20:18:22 INFO  User_Registration:23 - to enter Company name 
+2018-02-03 20:18:22 INFO  User_Registration:23 - entered data in Company name 
+2018-02-03 20:18:22 INFO  User_Registration:23 - to enter Password 
+2018-02-03 20:18:22 INFO  User_Registration:23 - entered data in Password 
+2018-02-03 20:18:22 INFO  User_Registration:23 - to enter Confirm password: 
+2018-02-03 20:18:22 INFO  HomePage:23 - Clicked on login 
+2018-02-03 20:18:22 INFO  User_Registration:23 - entered data in Confirm password: 
+2018-02-03 20:18:22 INFO  User_Registration:23 - to click Registration button
+2018-02-03 20:18:23 INFO  TC001_Login_with_Invalid_credential:28 - ========================Ending the test=================
+2018-02-03 20:18:24 INFO  User_Registration:23 -  clicked Registration button
+2018-02-03 20:18:24 INFO  TC002_Register_new_user:54 - Your registration completed
+2018-02-03 20:18:24 INFO  TC002_Register_new_user:54 - ===================End of the test==================
+2018-02-03 20:18:24 INFO  TC002_Register_new_user:54 - closing browser
+2018-02-03 20:18:24 INFO  TC002_Register_new_user:54 - closing the browser
+2018-02-03 20:45:28 INFO  Testbase:93 - navigating to url :-http://demo.nopcommerce.com/
+2018-02-03 20:45:30 INFO  Testbase:95 - Maximizing the window
+2018-02-03 20:45:40 INFO  Testbase:93 - navigating to url :-http://demo.nopcommerce.com/
+2018-02-03 20:45:43 INFO  Testbase:95 - Maximizing the window
+2018-02-03 20:45:54 INFO  Testbase:93 - navigating to url :-http://demo.nopcommerce.com/
+2018-02-03 20:45:57 INFO  Testbase:95 - Maximizing the window
+2018-02-03 20:45:57 INFO  Testbase:100 - ===============Start test====================
+2018-02-03 20:45:57 INFO  TC001_Login_with_Invalid_credential:23 - ============Starting the test=====================
+2018-02-03 20:45:57 INFO  TC002_Register_new_user:54 - ==================strat testing===================
+2018-02-03 20:45:57 INFO  TC002_Register_new_user:54 - to click on Register link
+2018-02-03 20:45:58 INFO  TC002_Register_new_user:54 - clicked on Register link
+2018-02-03 20:45:58 INFO  User_Registration:23 - to click on sex
+2018-02-03 20:45:58 INFO  HomePage:23 - clicked on log in link on the home screen
+2018-02-03 20:45:58 INFO  HomePage:23 - clicked on log in link on the home screen
+2018-02-03 20:45:59 INFO  HomePage:23 - entered valiue in email field on login screen
+2018-02-03 20:46:00 INFO  HomePage:23 - entered valiue in email field on login screen
+2018-02-03 20:46:00 INFO  HomePage:23 - entered valiue in password field on login screen
+2018-02-03 20:46:00 INFO  HomePage:23 - To Click on login 
+2018-02-03 20:46:00 INFO  HomePage:23 - entered valiue in password field on login screen
+2018-02-03 20:46:00 INFO  HomePage:23 - To Click on login 
+2018-02-03 20:46:01 INFO  User_Registration:23 - clicked on sex
+2018-02-03 20:46:01 INFO  User_Registration:23 - to enter first name 
+2018-02-03 20:46:01 INFO  User_Registration:23 - entered data in fst name 
+2018-02-03 20:46:01 INFO  User_Registration:23 - to enter last name 
+2018-02-03 20:46:02 INFO  HomePage:23 - Clicked on login 
+2018-02-03 20:46:02 INFO  HomePage:23 - Clicked on login 
+2018-02-03 20:46:02 INFO  User_Registration:23 - entered data in last name 
+2018-02-03 20:46:02 INFO  User_Registration:23 - to enter Email 
+2018-02-03 20:46:02 INFO  User_Registration:23 - entered data in Email 
+2018-02-03 20:46:02 INFO  User_Registration:23 - to enter Email 
+2018-02-03 20:46:03 INFO  TC001_Login_with_Invalid_credential:28 - ========================Ending the test=================
+2018-02-03 20:46:03 INFO  User_Registration:23 - entered data in Email 
+2018-02-03 20:46:03 INFO  User_Registration:23 - to enter Company name 
+2018-02-03 20:46:03 INFO  User_Registration:23 - entered data in Company name 
+2018-02-03 20:46:03 INFO  User_Registration:23 - to enter Password 
+2018-02-03 20:46:03 INFO  User_Registration:23 - entered data in Password 
+2018-02-03 20:46:03 INFO  User_Registration:23 - to enter Confirm password: 
+2018-02-03 20:46:03 INFO  User_Registration:23 - entered data in Confirm password: 
+2018-02-03 20:46:03 INFO  User_Registration:23 - to click Registration button
+2018-02-03 20:46:05 INFO  User_Registration:23 -  clicked Registration button
+2018-02-03 20:46:05 INFO  TC002_Register_new_user:54 - Your registration completed
+2018-02-03 20:46:05 INFO  TC002_Register_new_user:54 - ===================End of the test==================
+2018-02-03 20:46:12 INFO  TC002_Register_new_user:54 - closing browser
+2018-02-03 20:46:12 INFO  TC002_Register_new_user:54 - closing the browser
+2018-02-06 19:37:49 INFO  Testbase:93 - navigating to url :-http://demo.nopcommerce.com/
+2018-02-06 19:37:52 INFO  Testbase:95 - Maximizing the window
+2018-02-06 19:38:01 INFO  Testbase:93 - navigating to url :-http://demo.nopcommerce.com/
+2018-02-06 19:38:03 INFO  Testbase:95 - Maximizing the window
+2018-02-06 19:38:12 INFO  Testbase:93 - navigating to url :-http://demo.nopcommerce.com/
+2018-02-06 19:38:14 INFO  Testbase:95 - Maximizing the window
+2018-02-06 19:38:14 INFO  TC002_Register_new_user:54 - ==================strat testing===================
+2018-02-06 19:38:14 INFO  Testbase:100 - ===============Start test====================
+2018-02-06 19:38:14 INFO  TC001_Login_with_Invalid_credential:23 - ============Starting the test=====================
+2018-02-06 19:38:14 INFO  TC002_Register_new_user:54 - to click on Register link
+2018-02-06 19:38:15 INFO  HomePage:23 - clicked on log in link on the home screen
+2018-02-06 19:38:15 INFO  HomePage:23 - clicked on log in link on the home screen
+2018-02-06 19:38:15 INFO  TC002_Register_new_user:54 - clicked on Register link
+2018-02-06 19:38:15 INFO  User_Registration:23 - to click on sex
+2018-02-06 19:38:17 INFO  HomePage:23 - entered valiue in email field on login screen
+2018-02-06 19:38:17 INFO  HomePage:23 - entered valiue in email field on login screen
+2018-02-06 19:38:17 INFO  User_Registration:23 - clicked on sex
+2018-02-06 19:38:17 INFO  User_Registration:23 - to enter first name 
+2018-02-06 19:38:17 INFO  User_Registration:23 - entered data in fst name 
+2018-02-06 19:38:17 INFO  User_Registration:23 - to enter last name 
+2018-02-06 19:38:18 INFO  HomePage:23 - entered valiue in password field on login screen
+2018-02-06 19:38:18 INFO  HomePage:23 - To Click on login 
+2018-02-06 19:38:18 INFO  HomePage:23 - entered valiue in password field on login screen
+2018-02-06 19:38:18 INFO  HomePage:23 - To Click on login 
+2018-02-06 19:38:19 INFO  User_Registration:23 - entered data in last name 
+2018-02-06 19:38:19 INFO  User_Registration:23 - to enter Email 
+2018-02-06 19:38:19 INFO  User_Registration:23 - entered data in Email 
+2018-02-06 19:38:19 INFO  User_Registration:23 - to enter Email 
+2018-02-06 19:38:19 INFO  User_Registration:23 - entered data in Email 
+2018-02-06 19:38:19 INFO  User_Registration:23 - to enter Company name 
+2018-02-06 19:38:20 INFO  HomePage:23 - Clicked on login 
+2018-02-06 19:38:20 INFO  HomePage:23 - Clicked on login 
+2018-02-06 19:38:20 INFO  User_Registration:23 - entered data in Company name 
+2018-02-06 19:38:20 INFO  User_Registration:23 - to enter Password 
+2018-02-06 19:38:20 INFO  User_Registration:23 - entered data in Password 
+2018-02-06 19:38:20 INFO  User_Registration:23 - to enter Confirm password: 
+2018-02-06 19:38:20 INFO  User_Registration:23 - entered data in Confirm password: 
+2018-02-06 19:38:20 INFO  User_Registration:23 - to click Registration button
+2018-02-06 19:38:20 INFO  TC001_Login_with_Invalid_credential:28 - ========================Ending the test=================
+2018-02-06 19:38:21 INFO  User_Registration:23 -  clicked Registration button
+2018-02-06 19:38:22 INFO  TC002_Register_new_user:54 - Your registration completed
+2018-02-06 19:38:22 INFO  TC002_Register_new_user:54 - ===================End of the test==================
+2018-02-06 19:38:30 INFO  TC002_Register_new_user:54 - closing browser
+2018-02-06 19:38:30 INFO  TC002_Register_new_user:54 - closing the browser

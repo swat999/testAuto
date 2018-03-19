@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="UiAuto.ecom.HomePage.TC002_Register_new_user">
+        <methods>
+          <include name="Register_new_user"/>
+          <include name="start_test"/>
+          <include name="end_test"/>
+        </methods>
+      </class> <!-- UiAuto.ecom.HomePage.TC002_Register_new_user -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="RegressionSuit" parallel="methods" thread-count="3">
+<test name="Cycle1">
+<classes>
+<class name="UiAuto.ecom.HomePage.TC002_Register_new_user"></class>
+<class name="UiAuto.ecom.HomePage.TC001_Login_with_Invalid_credential"></class>
+<class name="UiAuto.ecom.HomePage.TC003_Login_with_valid_credential"></class>
+</classes>
+</test>
+</suite>
